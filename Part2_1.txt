@@ -1,0 +1,1 @@
+An index in a database is used to improve the efficiency of data retrieval operations by allowing for quick access to specific data without having to search the entire database. When a user requests data from the database, the index is consulted first to determine the location of the data, which can significantly reduce the amount of time required to retrieve it
