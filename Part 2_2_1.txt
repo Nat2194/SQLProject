@@ -1,0 +1,5 @@
+A database view is a virtual table created from the result of a SELECT query. It allows users to retrieve data from one or more tables with a simplified and tailored structure, providing a way to present the data in a more meaningful and intuitive way. Views are used to simplify queries, increase data security, and enhance database performance.
+
+A logical view is a virtual table that is dynamically generated when it is accessed. It does not store the data physically and thus the data is retrieved every time the view is queried.
+
+A materialized view is a physical copy of a logical view. It stores the result of a query as a table in the database, making it faster to retrieve the data than a logical view.

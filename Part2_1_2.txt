@@ -1,0 +1,12 @@
+Query a:
+
+This query retrieves the number of students enrolled in each course and house, and sorts the results by the number of students in descending order.
+
+Query b:
+This query will retrieve the names and emails of all students who do not have any entries in the enrollment table, meaning they have not been registered for any courses.
+
+Query c:
+This query counts the number of students in each house who are enrolled in at least one of the courses.
+
+Query d:
+This query returns the names and email addresses of all students who have taken the same number of courses as all the other students in their respective years.
