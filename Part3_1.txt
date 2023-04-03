@@ -1,0 +1,3 @@
+A stored procedure is a pre-compiled SQL statement or group of statements that are stored in the database and can be called by other applications. It' like a subprogram that can accept parameters and return results. Stored procedures help simplify complex database operations, improve performance, and provide better security by reducing the risk of SQL injection attacks.
+
+A trigger is a database object that is executed automatically in response to certain operations on a table. Triggers are typically used to enforce business rules, audit database changes, or implement complex data integrity constraints. They can be used to perform actions such as updating other tables, sending email notifications, or executing stored procedures.
